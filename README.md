@@ -3,7 +3,6 @@
 ###
 
 <h4 align="left">👨‍🎓Cientist of Computer<br>🎮Game Programmer<br>⚡Game Designer<br>📖Story Teller<br>⚔️Pixel Artist<br>🕹️Passionate for Games</h4>
-
 ###
 
 <h3 align="left">Wellcome to my Laboratory, it's here where my creations are made.</h3>
@@ -14,12 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Luiz19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Luiz19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arthur-Luiz19/Arthur-Luiz19/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -37,7 +30,7 @@
   <a href="https://www.linkedin.com/in/arthur-luiz-da-silva-a267a6205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="wa.link/cdj31b" target="_blank">
+  <a href="https://w.app/m5ogGJ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
   </a>
 </div>
