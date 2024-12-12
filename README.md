@@ -19,8 +19,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arthur-Luiz19/Arthur-Luiz19/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left">Social Media</h3>
