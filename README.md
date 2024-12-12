@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">👨‍🎓Cientist of Computer<br>🎮Game Programmer<br>⚡Game Designer<br>📖Story Teller<br>⚔️Pixel Artist<br>🕹️Passionate for Games</h4>
+<h4 align="left">👨‍🎓Cientist of Computer<br>🎮Frontend developer<br>⚡Backend developer<br>📖software engineer<br>🕹️Passionate for codes</h4>
 ###
 
 <h3 align="left">Wellcome to my Laboratory, it's here where my creations are made.</h3>
