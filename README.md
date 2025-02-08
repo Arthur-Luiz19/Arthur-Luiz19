@@ -6,15 +6,15 @@
 
 <br clear="both">
 
-<p align="center">Bem vindo ao meu laboratório!! Sou Desenvolvedor Fullstack 💡<br> Apaixonado em criar artes em forma de códigos.<br>______________________________________________________________________________</p>
+<h3 align="center">Bem vindo ao meu laboratório!! Sou Desenvolvedor Fullstack 💡<br> Apaixonado em criar artes em forma de códigos.<br>______________________________________________________________________________</h3>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Luiz19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="300" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Luiz19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="307" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Luiz19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Luiz19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false" height="181" alt="languages graph"  />
 </div>
 
 ###
