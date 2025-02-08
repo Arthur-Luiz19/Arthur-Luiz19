@@ -126,6 +126,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Arthur-Luiz19/Arthur-Luiz19/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Arthur-Luiz19/Arthur-Luiz19/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
